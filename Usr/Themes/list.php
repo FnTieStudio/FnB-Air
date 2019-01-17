@@ -101,18 +101,24 @@
       </div>
       
           <div class="mdui-dialog" id="about_FnMB">
-            <div class="mdui-dialog-title">关于 FnB </div>
+            <div class="mdui-dialog-title">ABOUT FnTie</div>
             <div class="mdui-dialog-content">
             <blockquote>
-				<p>FnB 1.0.5
+				<div class="mdui-chip">
+                  <span class="mdui-chip-icon">Fn</span>
+                  <span class="mdui-chip-title">FnB Air One</span>
+                </div>
+                <div class="mdui-chip">
+                  <span class="mdui-chip-icon">V</span>
+                  <span class="mdui-chip-title">O-117</span>
+                </div>
 				<br/>
-				<a href="https://github.com/FnTieStudio/FnB" class="mdui-fab mdui-fab-mini"><i class="mdui-icon material-icons">&#xe8ab;</i></a>
-				<a href="javascript:alert('已清理');;" class="mdui-fab mdui-fab-mini mdui-ripple"><i class="mdui-icon material-icons">&#xe028;</i></a>
 				</p> 
-				        
-				<p>开发者: HanFen </p>
-				<p>感谢:学神之女 MDUI</p>
-				<footer>© Copyright 2018 by FnTie All rights are reserved.</footer>
+				<div class="mdui-typo">       
+				<p>开发者: <a href="https://github.com/Han-Fen" target="_blank">HanFen</a> </p>
+				<p>鸣谢:<a href="https://github.com/DFFZMXJ" target="_blank">学神之女</a> <a href="https://github.com/zdhxiong" target="_blank">Zdhxiong</a></p>
+				</div>
+				<footer>© Copyright 2019 by FnTieStudio All rights are reserved.</footer>
 			</blockquote>
             </div>
             <div class="mdui-dialog-actions">
