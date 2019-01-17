@@ -1,0 +1,25 @@
+<?php
+/**
+ * (C)2015-2019 FnTieStudio All rights reserved.
+ * FnB Air One
+ * Author: HanFen
+ */
+?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-cn">
+<?php 
+require 'head.php'; 
+require 'header.php';
+?>
+    <body class="<?php echo($page['body'] ); ?>" onload="show()">
+        <div class="FnB_Air">
+            <?php require 'list.php';?>
+            <div class="container">
+                <?php
+                require 'Page/index.php';
+                require 'footer.php';
+                ?>
+            </div>
+        </div>
+    </body>
+</html>
