@@ -17,4 +17,3 @@
             <li class="mdui-divider"></li>
           </ul>
     </div>
-</header>

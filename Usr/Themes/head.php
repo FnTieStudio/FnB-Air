@@ -12,5 +12,4 @@
         <link rel="stylesheet" href="//cui.dcloud.store/css/cui.css" />
         <script src="//cdnjs.loli.net/ajax/libs/mdui/0.4.2/js/mdui.min.js"></script>
         <script src="//cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
-        <script type="text/javascript" src="//cui.dcloud.store/js/cui.min.js"></script>
     </head>

@@ -17,7 +17,7 @@
           <img src="https://api.i-meto.com/bing?category=space"/>
           <div class="mdui-card-media-covered">
             <div class="mdui-card-primary">
-              <div class="mdui-card-primary-subtitle"><div id="tp-weather-widget"></div></div>
+              <div class="mdui-card-primary-subtitle font-weight:900;">FnB Air One</div>
             </div>
           </div>
         </div>
@@ -125,20 +125,3 @@
               <button class="mdui-btn mdui-ripple" mdui-dialog-close>知 道 啦 !</button>
             </div>
           </div>
-          
-<script>(function(T,h,i,n,k,P,a,g,e){g=function(){P=h.createElement(i);a=h.getElementsByTagName(i)[0];P.src=k;P.charset="utf-8";P.async=1;a.parentNode.insertBefore(P,a)};T["ThinkPageWeatherWidgetObject"]=n;T[n]||(T[n]=function(){(T[n].q=T[n].q||[]).push(arguments)});T[n].l=+new Date();if(T.attachEvent){T.attachEvent("onload",g)}else{T.addEventListener("load",g,false)}}(window,document,"script","tpwidget","//widget.seniverse.com/widget/chameleon.js"))</script>
-<script>tpwidget("init", {
-    "flavor": "slim",
-    "location": "WS10730EM8EV",
-    "geolocation": "enabled",
-    "language": "auto",
-    "unit": "c",
-    "theme": "white",
-    "container": "tp-weather-widget",
-    "bubble": "disabled",
-    "alarmType": "badge",
-    "color": "#FFFFFF",
-    "uid": "U7CB28E99F",
-    "hash": "d8fa9e77162f89206d887eaddaa3a3ca"
-});
-tpwidget("show");</script>

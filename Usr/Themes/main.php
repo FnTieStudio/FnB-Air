@@ -11,12 +11,13 @@
 require 'head.php'; 
 require 'header.php';
 ?>
-    <body class="<?php echo($page['body'] ); ?>" onload="show()">
+</header>
+    <body class="<?php echo($page['body'] ); ?>">
         <div class="FnB_Air">
             <?php require 'list.php';?>
             <div class="container">
                 <?php
-                require 'Page/index.php';
+                require $body;
                 require 'footer.php';
                 ?>
             </div>
