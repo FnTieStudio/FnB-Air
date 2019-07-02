@@ -13,9 +13,9 @@ FnB Air One
 > + 响应式外观界面,完美适应手机电脑 !
 
 ## 环境要求
-> PHP环境要求PHP5.6+
+> PHP环境要求PHP7.0+
  ~~~
- PHP:[5.6|7.0|7.1|7.2]
+ PHP:[7.0|7.1|7.2]
  ~~~
 > Msql环境要求Mysql5.5+
  ~~~
@@ -33,4 +33,4 @@ FnB Air One
 
 只要你遵循上述条款规定，您就可以自由使用并传播本源代码。
 
-版权所有Copyright © 2015-2018 by FnTieStudio All rights reserved!
+版权所有Copyright © 2015-2019 by FnTieStudio All rights reserved!
